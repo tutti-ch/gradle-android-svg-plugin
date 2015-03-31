@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="35px" height="35px"
+	 viewBox="0 0 35 35" enable-background="new 0 0 35 35" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  y="-2" x="-3" height="35" width="35" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="Ebene_4" display="none">
+	<circle display="inline" fill="#40CFFF" cx="17.5" cy="17.5" r="17.5"/>
+</g>
+<g id="Ebene_1">
+	<rect x="5" y="5.007" display="none" fill="#E42526" width="24.965" height="24.993"/>
+	<circle fill="#EA3648" cx="17.432" cy="17.427" r="16.729"/>
+</g>
+<g id="Ebene_3">
+	<polygon fill="#FFFFFF" points="8.826,14.865 8.826,20.022 14.843,20.022 14.843,26.021 20.021,26.021 20.021,20.022 
+		26.037,20.022 26.037,14.851 20.006,14.851 20.006,8.833 14.862,8.833 14.862,14.865 	"/>
+</g>
+<g id="Ebene_2" display="none">
+	
+		<image display="inline" overflow="visible" enable-background="new    " width="320" height="320" xlink:href="../docs/320px-Flag_of_Switzerland_(Pantone).svg.png"  transform="matrix(0.0937 0 0 0.0937 2.5 2.5083)">
+	</image>
+</g>
+<path id="border" fill="#DED8CA" d="M17.5,1C26.599,1,34,8.401,34,17.5S26.599,34,17.5,34C8.402,34,1,26.599,1,17.5S8.402,1,17.5,1
+	 M17.5,0C7.835,0,0,7.835,0,17.5S7.835,35,17.5,35S35,27.165,35,17.5S27.165,0,17.5,0L17.5,0z"/>
+</svg>

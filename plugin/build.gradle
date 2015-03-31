@@ -1,0 +1,24 @@
+apply plugin: 'groovy'
+apply from: 'gradle-mvn-push.gradle'
+
+dependencies {
+    compile gradleApi()
+    compile localGroovy()
+}
+
+repositories {
+    mavenCentral()
+}
+
+configurations {
+    includeInJar
+}
+
+dependencies {
+    compile 'commons-configuration:commons-configuration:1.10'
+    testCompile 'junit:junit:4.11'
+}
+
+jar {
+
+}
